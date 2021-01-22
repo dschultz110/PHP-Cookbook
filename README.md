@@ -1,10 +1,8 @@
 # Cookbook Content Management System
 This is a sample PHP application that allows users to sign in to create and edit their recipes.
-# Database Dump File
-"cookbook.sql" is the dump file. Import that into your database if you would like the starter example recipes and two users.
-The accounts are:
-- user3@email.com --> Password01
-- admin1@email.com --> Password01
+# Demo
+The [demo for my Family Cookbook](https://cookbook-ds.herokuapp.com/) is up and running. You can sign up but I've revoked the ability to create new recipes.
+You may need to wait up to 30 seconds for the server to wake up.
 
 # Screenshots
 ## The Home Page
